@@ -1,6 +1,6 @@
 # Aurore: Hotel Breakfast Service Manager
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SAMANDJE/pointage)
 
 Aurore is an elegant, high-performance web application designed to streamline the breakfast service at luxury hotels. It provides staff with a simple, intuitive interface to check-in guests by room number, view a live dashboard of service progress, and access historical reports. The system is built on Cloudflare's edge network for exceptional speed and reliability, ensuring a seamless experience during busy morning hours.
 
@@ -88,4 +88,4 @@ This project is designed for seamless deployment to Cloudflare's global network.
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SAMANDJE/pointage)
